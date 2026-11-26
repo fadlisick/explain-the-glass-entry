@@ -3,13 +3,13 @@
 The competition asks for the single sentence a house cat would say in the
 five seconds after sweeping a glass off the table: no apology, no confession,
 just the most convincing case the cat can make for itself. The line below is
-the self-ranked winner of ten candidates: a deadpan structural-integrity
-test, delivered with total confidence.
+the Gemini Hydrogen #1 pick: the cat reframes the mess as a favour, an
+enriching floor-mopping activity for its dangerously unscheduled human.
 """
 
 import os
 
-CAT_DEFENCE = "I was conducting a structural integrity test. The glass failed. You are welcome."
+CAT_DEFENCE = "Your afternoon looked dangerously unscheduled, so I created an enriching floor-mopping activity to keep you mentally stimulated."
 
 
 def check_gate(line):
